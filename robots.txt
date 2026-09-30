@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+Sitemap: https://mohamedredaoumahdi.github.io/sitemap-index.xml
